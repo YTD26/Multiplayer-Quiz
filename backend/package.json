@@ -1,0 +1,10 @@
+{
+  "name": "quiz-backend",
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.4",
+    "cors": "^2.8.5",
+    "openai": "^4.0.0"
+  }
+}
